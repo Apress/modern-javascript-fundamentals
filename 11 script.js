@@ -1,0 +1,15 @@
+let val = true;
+console.log(val);
+let word = "JavaScript";
+console.log(word == "JavaScript");
+console.log(word != "HTML");
+console.log(9 != 9);
+console.log(9 > 10);
+console.log(9 < 10);
+console.log(9 >= 10);
+let num = "5";
+console.log(num == 5);
+console.log(num === 5);
+console.log(num !== 5);
+console.log(typeof (num));
+console.log(typeof (5));
